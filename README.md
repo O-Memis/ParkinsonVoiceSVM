@@ -56,12 +56,10 @@ The main aim is discriminate **healthy=0 and PD=1** as binary classification.
 
 How these measurements are performed:
 
-**Voice Recording:** Subjects are typically asked to sustain a vowel sound (often 'ahhh') for several seconds.
-**Signal Processing:** The voice recordings are then processed using specialized software that can extract these acoustic features.
-**MDVP:** Many of these features are extracted using **Multi-Dimensional Voice Program (MDVP)**, a software tool for voice analysis.
-**Advanced Analysis:** Some of the more complex measures (like RPDE, D2, DFA) require advanced mathematical analysis of the voice signal.
-
-
+**Voice Recording:** Subjects are typically asked to sustain a vowel sound (often 'ahhh') for several seconds.<br>
+**Signal Processing:** The voice recordings are then processed using specialized software that can extract these acoustic features.<br>
+**MDVP:** Many of these features are extracted using **Multi-Dimensional Voice Program (MDVP)**, a software tool for voice analysis.<br>
+**Advanced Analysis:** Some of the more complex measures (like RPDE, D2, DFA) require advanced mathematical analysis of the voice signal.<br>
 
 # 5-Code Organization
 
